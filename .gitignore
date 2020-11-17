@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Custom
+/build/
+bin/
+obj/
+Debug/
+Release/
+*.opensdf
+*.tlog
+*.log
