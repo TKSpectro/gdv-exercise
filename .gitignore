@@ -40,3 +40,6 @@ Release/
 *.opensdf
 *.tlog
 *.log
+
+# yoshix
+/yoshix_vs_2019
